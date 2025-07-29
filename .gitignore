@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.nuget.g.props
+*.nuget.g.targets
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+
+# Local debug settings
+Properties/launchSettings.json
+
+# OS / IDE specific
+*.DS_Store
+*.swp
+*.idea/
+*.vscode/
+
+# Local Testing files
+*.http
